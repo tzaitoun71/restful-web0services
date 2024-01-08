@@ -1,7 +1,6 @@
 package com.tariq.rest.webservices.restfulweb0services.exception;
 
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public class ErrorDetails {
